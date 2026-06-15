@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Hide react-tweet bottom actions and info */
+.hide-tweet-footer [data-testid="tweet-info"],
+.hide-tweet-footer [data-testid="tweet-actions"],
+.hide-tweet-footer [class*="tweet-info"],
+.hide-tweet-footer [class*="TweetInfo"],
+.hide-tweet-footer [class*="tweet-actions"],
+.hide-tweet-footer [class*="TweetActions"] {
+  display: none !important;
+}
