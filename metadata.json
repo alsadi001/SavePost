@@ -1,0 +1,6 @@
+{
+  "name": "محفوظات التغريدات",
+  "description": "تطبيق لحفظ وتنظيم المنشورات (التغريدات) من منصة X في مجموعات مخصصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
